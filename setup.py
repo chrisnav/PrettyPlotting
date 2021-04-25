@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='PrettyPlotting',
-    packages=find_packages(include=['PrettyPlotting']),
+    packages=find_packages(include=['prettyplotting']),
     version='0.1.0',
     description='A simple matplotlib wrapper',
     url = 'https://github.com/chrisnav/PrettyPlotting',
