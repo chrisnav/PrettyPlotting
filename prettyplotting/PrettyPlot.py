@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 from matplotlib.lines import Line2D
 
+
 class Plot(object):
 
 	def __init__(self,title="",xlabel="",ylabel="",xlim=[],ylim=[],figSizeX = 25.6, figSizeY=14.4, largeFontSize=50, smallFontSize = 30):
